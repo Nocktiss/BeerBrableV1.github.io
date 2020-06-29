@@ -1,0 +1,207 @@
+.textH1Categorie {
+    font-size: 25px;
+    color: white;    
+    justify-content: center;
+    display: flex;
+}
+.textCategorie {
+    font-size: 15px;
+    color: white;   
+    text-align: start; 
+   
+}
+.colCategorie {
+    background-color: white;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: 10px;
+}
+.textTitre {
+    color:white;
+    justify-content: center;
+    display: flex;
+    background: linear-gradient(0deg, rgba(77,213,199,1) 10%, rgba(111,235,166,1) 100%);
+    align-items: center;     
+    height: 50px;
+    border-radius: 0px 0 50px 50px;
+}
+.cardCategorie {
+    height: 115px;
+    border-radius: 100px;
+}
+
+.containerButtonCategorie {
+    box-shadow: 0px 8px 7px 0px #DCDCDC;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.biéreButtonCategorie {
+    color:gray;
+    background-color: white;
+    border-radius: 20px;
+    border-color: white;
+}
+.biéreButtonCategorie1 {
+    background: linear-gradient(0deg, rgba(77,213,199,1) 10%, rgba(111,235,166,1) 100%);
+    border-radius: 20px;
+    border-color: white;
+}
+
+.cardBodyCategorieDeProduits{
+    height: 17vh;
+    padding-bottom: 10px;
+    border: solid 1px;
+    border-top-color: gray;
+    border-bottom-color: gray;
+    border-left-color: transparent;
+    border-right-color: transparent;
+} 
+.cardTitleCategorieDeProduits {
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.textH1CategorieDeProduits{
+    font-size: 15px;
+ 
+}
+
+.textCategorieDeProduits{
+    height: 5px;
+    font-size: 12px;
+    color: gray;
+}
+.colCardCategorieDeProduits {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.stickyProductScreen {
+    background-color: white;
+}
+.productContainerScreen{
+    padding-top:10px;
+    box-shadow: 0px 0px 5px 5px #DCDCDC;
+    width: 100%; 
+    position: fixed;
+    bottom: 0px;
+    left: 0;
+    right: 0px;
+    height: 60px;
+    width: 100%;
+    background: white;
+   
+}
+.productContainerCartrScreen{
+    padding-top:10px;
+    box-shadow: 0px 0px 5px 5px #DCDCDC;
+    width: 100%; 
+    position: fixed;
+    bottom: 0px;
+    left: 0;
+    right: 0px;
+    height: 100px;
+    width: 100%;
+    background: white;
+   
+}
+
+.buttonModalAddPlanches {
+    display: contents;
+}
+
+
+.footerSlickMarginbottom {
+    margin-bottom: 60px;
+
+}
+
+.buttonModalButtonDisplayModal {
+    display: contents;
+}
+.buttonAddPanierModalQuantiter {
+    display: flex;
+    justify-content: center;
+
+}
+.buttonAddPanierButtonQuandtiter {
+    width: 100%;
+    background: linear-gradient(0deg, rgba(77,213,199,1) 10%, rgba(111,235,166,1) 100%);
+    border-color: transparent;
+    border-radius: 20px 20px 20px 20px;
+}
+// .titleModal {
+//     border-color: transparent;
+//     display: flex;
+//     justify-content: center;
+// }
+.buttonProduct:hover { 
+    background-color: red;
+}
+.buttonProductbutton {
+    border-radius: 25px 25px 25px 25px;
+    
+}
+.buttonProduct {
+    
+    color: black;
+    background: white;
+    border-radius: 25px 25px 25px 25px;
+}
+.modalBodyQuantiterModalBody {
+    justify-content: center;
+    /* justify-items: center; */
+    display: flex;
+}
+
+.inputGroupQuantiterInputGroup {
+    width: 65%;
+}
+.formControlProduct{
+    text-align: center;
+    background: transparent !important;
+    border-color: white !important;
+}
+.modalQuantityPlanche {
+    margin: 0px 0px;
+    position: fixed;
+    top: auto;
+    border-radius: 25px 25px 0px 0px ;
+    left: auto;
+    bottom: 0;
+    right: 0px;
+}
+.footerModalPlanchesModalFooter {
+    border-color: transparent;
+    display: block;
+    background: white;
+
+}
+.colCategoriePlanchesColCategorie{
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    padding-top: 10px;
+    height: 35px;
+}
+.buttonPasserAuPaiementButtonPlanches {
+    border-color: transparent;
+    width: 100%;
+    border-radius: 10px 10px 10px 10px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+   
+    background: linear-gradient(0deg, rgba(77,213,199,1) 10%, rgba(111,235,166,1) 100%);
+}
+.buttonColButtonPasserAuPaiementButtonPlanches {
+
+    padding-bottom: 15px; 
+}
+.cardImgPlancheMixCardImg {
+    width: 12vh;
+    height: 12vh;
+}

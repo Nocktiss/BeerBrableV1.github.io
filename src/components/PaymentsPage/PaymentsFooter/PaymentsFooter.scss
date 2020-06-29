@@ -1,0 +1,54 @@
+.cardTextPaymentsFooter {
+    font-size: 10px;
+   
+    text-align: center;
+    color: gray;
+}
+.col12PaymentsFooter {
+    display: flex;
+   
+}
+
+.buttonPaymentsFooterbutton{
+
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    border-radius: 10px 10px 10px 10px;
+    height: 40px;
+    border-color: transparent;
+    background: linear-gradient(0deg, rgba(77,213,199,1) 10%, rgba(111,235,166,1) 100%);
+}
+.col12PaymentsFooterButtonCol12 {
+    padding-bottom: 15px; 
+}
+
+.inputCheckboxPaymentsFooter {
+    width: 25px;
+    height: 23px;
+    margin-left: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    top: 0px;
+    margin-top: 0px;
+    position: unset;
+}
+
+.buttonPaymentsCardTitleFooter {
+
+    margin-right: 25px;
+    font-weight: bold;
+}
+.containerPaymentFooterContainer {
+    padding-top: 10px;
+    position: fixed;
+    bottom: 0px;
+    left: 0;
+    right: 0px;
+    background-color: #F1F0F2;
+   
+
+}
+
+    

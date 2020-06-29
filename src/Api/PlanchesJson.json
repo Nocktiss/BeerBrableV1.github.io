@@ -1,0 +1,85 @@
+[
+{
+    "id" :  1 ,
+	"title": "Planche mixte",
+    "desc": "St nectaire, compté 18mois, Crotin de chevre",
+    "img": "../../bierreMain.jpg",
+    "price": "Assiette - 17€"
+  
+},
+
+{
+    "id" :  2 ,
+	"title": "Planche de fromages",
+    "desc": "4 fromages de choix fermier au lait cru.",
+    "img": "../../bierreMain.jpg",
+    "price": "Assiette - 15€"
+  
+},
+{
+    "id" :  3 ,
+	"title": "Assiette fermentée",
+    "desc": "Fromages, saucisson, pickles, houmous",
+    "img": "../../bierreMain.jpg",
+    "price": "Assiette - 14€"
+  
+},
+{
+    "id" :  4 ,
+	"title": "Planche de saucisson",
+    "desc": "Saucisson du Jura",
+    "img": "../../bierreMain.jpg",
+    "price": "Assiette - 12€"
+  
+},
+{
+    "id" :  5 ,
+	"title": "Houmous et Moutabal",
+    "desc": "houmous et caviar d'aubergine",
+    "img": "../../bierreMain.jpg",
+    "price": "Assiette - 8€"
+  
+},{
+    "id" :  6 ,
+	"title": "Tartinades Terre d'Apéro",
+    "desc": "A partir de légumes bio, locaux et de saison",
+    "img": "../../bierreMain.jpg",
+    "price": "Poiscamole - 7€"
+  
+},
+{
+    "id" :  7 ,
+	"title": "Tartinades Terre d'Apéro",
+    "desc": "houmous et caviar d'aubergine",
+    "img": "../../bierreMain.jpg",
+    "price": "Assiette - 8€"
+  
+},
+{
+    "id" :  8 ,
+	"title": "Tartinades Terre d'Apéro",
+    "desc": "A partir de légumes bio, locaux et de saison",
+    "img": "../../bierreMain.jpg",
+    "price": "Carotte/houmous - 7€"
+  
+},
+{
+    "id" :  9 ,
+	"title": "Tartinades Terre d'Apéro",
+    "desc": "houmous et caviar d'aubergine",
+    "img": "../../bierreMain.jpg",
+    "price": "Assiette - 8€"
+  
+},
+{
+    "id" :  10 ,
+	"title": "Tartinades Terre d'Apéro",
+    "desc": "A partir de légumes bio, locaux et de saison",
+    "img": "../../bierreMain.jpg",
+    "price": "Lentillades - 7€"
+  
+}
+]
+
+
+

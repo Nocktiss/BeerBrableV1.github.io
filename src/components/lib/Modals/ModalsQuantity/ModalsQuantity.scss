@@ -1,0 +1,103 @@
+.crossModal {
+    display: none;
+}
+.buttonProductbutton:hover {
+    background: white;
+    color: black!important;
+}
+
+.buttonProductbutton {
+    border-radius: 25px 25px 25px 25px;
+    background: #6FEBA6  !important;
+    border: none;
+    border-radius: 37px;
+    width: 39px;
+    font-weight: bold;
+    height: 53%;
+    margin-left: 3vh;
+}
+.buttonCartCartbutton {
+    border-radius: 25px 25px 25px 25px;
+    background: #6FEBA6  !important;
+    color: black;
+    border-radius: 25px 25px 25px 25px;
+    border-color: transparent;
+    font-weight: bold;    
+    margin-left: 1vh;
+}
+.buttonCartbutton:hover {
+    background: white;
+    color: black!important;
+}
+
+.buttonCartCartbutton:hover  {
+    background: #6FEBA6  !important;
+    color: black!important;
+}
+
+
+.buttonCartbutton {
+    border-radius: 25px 25px 25px 25px;
+    background: white !important;
+    color: black;
+    border-radius: 25px 25px 25px 25px;
+    border-color: grey;
+    font-weight: bold;    
+    margin-right: 1vh;
+}
+
+.buttonCartButton:hover { 
+    background: white;
+    color: black;
+}
+
+.buttonProductLess {
+    border-radius: 25px 25px 25px 25px;
+    background: white !important;
+    color: black;
+    border-radius: 37px;
+    border-color: grey;
+    width: 39px;
+    font-weight: bold;
+    height: 53%;
+    margin-right: 3vh;
+}
+
+.formControlProduct{
+    text-align: center;
+    border: none;
+    font-size: 42px;
+}
+
+.buttonProductbutton:hover { 
+    background: #6FEBA6 !important;
+}
+
+.buttonProductLess:hover { 
+    background: white;
+    color: black;
+}
+
+.buttonProduct {
+    color: black;
+    background: white;
+    border-radius: 25px 25px 25px 25px;
+}
+
+
+.buttonModalQuantity {
+    height: 50px;
+    border: none ;
+    width: 100%;
+    background: #4DD5C7 !important;
+    border-radius: 20px 20px 20px 20px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.modalBodyQuantity {
+    justify-content: center;
+   padding: 0px 0px 0px 0px;
+    display: flex;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}

@@ -1,0 +1,125 @@
+.textOderSummary {
+    text-align: center;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 15px;
+}
+
+.textOderSummaryCommande {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+.textOderSummaryNumeroCommande {
+
+
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    margin-bottom: 0px;
+}
+.textOderSummaryStripe {
+    text-align: center;
+    
+    font-size: 16px;
+    margin-bottom: 0px;
+}
+.textOderSummaryNumberText {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    margin-top: 5vh;
+    font-size: 16px;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+.productContainerOderSummaryScreen {
+    padding-top:10px;
+    box-shadow: 0px 0px 5px 5px #DCDCDC;
+    width: 100%; 
+    position: fixed;
+    bottom: 0px;
+    left: 0;
+    right: 0px;
+    background: white;
+   
+}
+
+.priceQuantityOrderSummary{
+    display: flex;
+    width: 33vh;
+    justify-content: space-between;
+    
+}
+
+.ProductOrderSummary {
+    
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.cardBodyOrderSummary {
+    padding-bottom: 10px;
+    border-top-color: gray;
+    border-bottom-color: gray;
+    background-color: white;
+}
+
+.collection {
+    margin-top: 20px;
+    margin-bottom: 13vh;
+    height: 100%;
+}
+
+.box {
+    margin-bottom: 10vh;
+}
+.containerNewCommandeOrderSummary {
+    margin-top: 15px;
+}
+
+.modalOrderSummaryModal {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.modalButtonOrderSummaryModalButton {
+    border-radius: 25px 25px 25px 25px;
+    width: 80%;
+    background: linear-gradient(0deg, #4dd5c7 10%, #6feba6 100%);
+    /* margin: 0; */
+    border-color: transparent;
+    /* display: flex; */
+    /* justify-content: space-around; */
+    text-decoration: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.buttonPaiementOrderSummary {
+    border-radius: 25px 25px 25px 25px; 
+    /* width: 100%; */
+    background-color: #5CDFB8 !important;
+    /* margin: 0; */
+    
+    border: none;
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+    border-color: transparent;
+}
+.orderSummaryQteOrderQuantity {
+    height: 5px;
+    font-size: 12px;
+    color: gray;
+    font-weight: bold;
+}

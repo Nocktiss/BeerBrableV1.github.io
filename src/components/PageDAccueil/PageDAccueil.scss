@@ -1,0 +1,102 @@
+.cardMain {
+    justify-content: space-around;
+    flex-direction: column;
+    display: flex;
+    height: 100vh;
+    width: 100%;
+  }
+
+  .yolo {
+    height: 100vh;
+      width: 100%!important;
+  }
+
+  .ButtonMain {
+    background-color: #4DD5C7;
+    border-color: transparent;
+    width: 100%;
+    margin-bottom: 0px;
+    margin-top: 0px;
+  }
+
+  .colorTextButton{
+    color: #DCDCDC;
+    font-size: 12px;
+  }
+
+  .logobrable{
+    height: 150px;
+    width: 250px;
+  }
+
+  .carousel-indicators li {
+    background-color: yellow;
+  }
+
+  .carouselAcc {
+    text-align: center;
+  }
+
+  .buttonMainAcc {
+    border-radius: 10px 10px 10px 10px;
+    width: 100%;
+    background-color: #4DD5C7;
+  }
+
+  .textcolorButtonAcc {
+    background-color: #4DD5C7;
+  
+  }
+  .testetetest {
+    margin: 0;
+    
+  }
+  .treasureEggs{
+   color: transparent;
+  }
+
+.textFooterHome {
+  color: gray;
+  font-size: 12px;
+}
+
+.textHome {
+  font-size: 14px;
+    color: white;
+}
+
+  .titleHome {
+
+    font-size: 32px;
+    color: white;
+  }
+
+  .backgroundImagePageAccueil {
+    background-repeat: round;
+  }
+
+  .cardImgOverlayPage {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+
+  .cardImgBiereMainDegrade{
+    height: 100vh;
+    width: 100%;
+  }
+
+  .buttonNavyolo {
+    border-radius: 10px 10px 10px 10px;
+    width: 23%;
+    height: 5%;
+    background: linear-gradient(0deg, #4dd5c7 10%, #6feba6 100%);
+    margin: 0;
+    border-color: transparent;
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+}

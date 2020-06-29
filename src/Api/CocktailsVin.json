@@ -1,0 +1,36 @@
+[
+    {
+        "id" :  1 ,
+        "title": "Fuso jaune - kombucha",
+        "description": "Fuso ananas vanille réhaussé par du kombucha",
+        "image": "../../bierreMain.jpg",
+        "prix": "Verre - 8€"
+      
+    },
+    
+    {
+        "id" :  2 ,
+        "title": "Fuso orange - kéfir",
+        "description": "Fuso orange gingembre, kéfir citron  ",
+        "image": "../../bierreMain.jpg",
+        "prix": "Verre - 8€"
+      
+    },
+    {
+        "id" :  3 ,
+        "title": "Fuso rouge - cassis au levain",
+        "description": "Fuso hibiscus, fraise - cassis au levain",
+        "image": "../../bierreMain.jpg",
+        "prix": "Verre - 8€"
+      
+    },
+    {
+        "id" :  4 ,
+        "title": "Per Hugo",
+        "description": "Vin nature sicilien puissant sur les notes de fruits rouges",
+        "image": "../../bierreMain.jpg",
+        "prix": "Verre - 8€"
+      
+    }  
+    ]
+ 

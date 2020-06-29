@@ -1,0 +1,153 @@
+
+.modal-wrapper {
+    border: 1px solid #d0cccc;
+    border-radius: 25px;
+    box-shadow: 0 5px 8px 0 rgba(0,0,0,0.2), 0 7px 20px 0 rgba(0,0,0,0.17);
+    margin: 18% auto 0;
+    transition: all .8s;
+    width: 88%;
+    border: none;
+}
+
+.titleModalWrapper {
+    display: flex;
+    justify-content: center;
+    top: 1vh;
+    padding-top: 2vh;
+    font-size: 28px;
+}
+
+.modalRegisterBody{
+    margin-top: -8vh;
+    text-align: center;
+    height: 31vh;
+}
+
+// .btn-create, .btn-connect {
+//     color: white;
+//     cursor: pointer;
+//     font-weight: bold;
+//     padding: 11px;
+//     font-size: 14px;
+// }
+
+// .btn-create {
+//     background-color: #4DD5C7;
+//     border-radius: 25px;
+//     margin-top: 7vh;
+//     width: 40vh;
+// }
+
+// .btn-connect {
+//     background-color: #8E979C;
+//     border-radius: 25px;
+//     margin-top: 2vh;
+//     width: 40vh;
+// }
+
+
+.back-drop {
+    background-color: rgba(48, 49, 48, 0.42);
+    height: 100%;
+    position: fixed;
+    transition: all 1.3s;
+    width: 100%;
+    filter: blur(3px);
+    margin-top: -27.5vh;
+}
+
+.textModal {
+    line-height: 150%;
+    font-size: 14px;
+    text-align: center;
+    color: gray;
+}
+
+.link-no-account {
+    color: #4DD5C7;
+    font-weight: bold;
+    font-size: 14px;
+    text-decoration: underline #4DD5C7;
+}
+
+.modalRegisterModalAntho {
+    border-radius: 25px;
+    background: beige;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 15px;
+}
+.textH1ModalRegisterAntho {
+    display: flex;
+    font-size: 28px!important;
+    justify-content:center;
+    margin-bottom: 0px;
+    padding-top: 15px;
+}
+
+.textModalRegisterAntho {
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 14px;
+    color: gray;
+    text-align: center;
+    margin-bottom: 0px;
+
+}
+.linkRegisterPageScreen {
+    text-align: center;
+    background:#4DD5C7;
+    border-radius: 25px;
+    margin-bottom: 16px;
+}
+.linkLoginPageScreen {
+    margin-bottom: 15px;
+    text-align: center;
+    background:#8E979C;
+    border-radius: 25px;
+}
+.buttonCreeCompteModal {
+    background: #4DD5C7;
+    border: transparent;
+    font-weight: bold;
+    font-size: 14px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.buttonCreeCompteModal1 {
+    background: #8E979C;
+    border: transparent;
+    font-weight: bold;
+    font-size: 14px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 25px;
+}
+.linkPaymentScreen {
+    color: #4DD5C7;
+    text-align: center;
+}
+.petitTextModalRegisterAntho {
+    background: white;
+    color: #4DD5C7;
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    border-color: transparent;
+}
+
+.paddingModalBodyLeft {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.modalCartScreenConnexionCart {
+    top: 25vh;
+}

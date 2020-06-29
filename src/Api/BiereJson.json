@@ -1,0 +1,66 @@
+[
+    {
+        "id" :  1 ,
+        "title": "Hype PA (5,3°)",
+        "description": "Demi-Pinte-Biére Blonde",
+        "image": "../../bierreMain.jpg",
+        "prix": "3.50 €",
+        "quantity": "25 cl"
+      
+    },
+    
+    {
+        "id" :  2 ,
+        "title": "Hype PA (5,3°)",
+        "description": "Pinte-Biére Blonde ",
+        "image": "../../bierreMain.jpg",
+        "quantity": "50 cl",
+        "prix": "6 €"
+      
+    },
+    {
+        "id" :  3 ,
+        "title": "Houblons comme les blés (4,7°)",
+        "description": "Demi-Pinte-Biére Blonde",
+        "image": "../../bierreMain.jpg",
+        "quantity": "25 cl",
+        "prix": "3.50 €"
+      
+    },
+    {
+        "id" :  4 ,
+        "title": "Houblons comme les blés (4,7°)",
+        "description": "Pinte-Biére Blonde ",
+        "image": "../../bierreMain.jpg",
+        "quantity": "50 cl",
+        "prix": "6 €"
+      
+    },
+    {
+        "id" :  5 ,
+        "title": "Session IPA (3,6°)",
+        "description": "Bouteille de Biére Blonde ",
+        "image": "../../bierreMain.jpg",
+      
+        "prix": "Bouteille - 5€"
+      
+    },
+    {
+        "id" :  6 ,
+        "title": "Sour Kefir (5,9°)",
+        "description": "Bouteille de Biére Blonde ",
+        "image": "../../bierreMain.jpg",
+        "prix": "Bouteille - 6€"
+      
+    },
+    {
+        "id" :  7 ,
+        "title": "Brown Ale (5,4°)",
+        "description": "Bouteille de Biére Blonde ",
+        "image": "../../bierreMain.jpg",
+        "prix": "Bouteille - 5,5€"
+      
+    }
+
+    ]
+   

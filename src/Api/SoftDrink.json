@@ -1,0 +1,48 @@
+[
+    {
+        "id" :  1 ,
+        "title": "Kéfir citron (sans alcool - peu sucré)",
+        "description": "Citronnade fermentée hyper rafraichissant",
+        "image": "../../bierreMain.jpg",
+        "prix": "Bouteille - 4€"
+      
+    },
+    
+    {
+        "id" :  2 ,
+        "title": "Kombucha (sans alcool)",
+        "quantity": "25 cl",
+        "description": "Thé délicatement fermentée. ",
+        "image": "../../bierreMain.jpg",
+        "prix": "3 €"
+      
+    },
+    {
+        "id" :  3 ,
+        "title": "Kombucha (sans alcool)",
+        "quantity": "50 cl",
+        "description": "Thé délicatement fermentée.",
+        "image": "../../bierreMain.jpg",
+        "prix": "5 €"
+      
+    },
+    {
+        "id" :  4 ,
+        "title": "Cassis au levain (peu sucrée)",
+        "quantity":"25 cl",
+        "description": "Soda au cassis fermenté au levain de gingembre",
+        "image": "../../bierreMain.jpg",
+        "prix": "3 €"
+      
+    },
+    {
+        "id" :  5 ,
+        "title": "Cassis au levain (peu sucrée)",
+        "quantity":"50 cl",
+        "description": "Soda au cassis fermenté au levain de gingembre",
+        "image": "../../bierreMain.jpg",
+        "prix": "5 €"
+    
+}
+    ]
+    

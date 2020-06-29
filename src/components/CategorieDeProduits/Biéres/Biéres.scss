@@ -1,0 +1,92 @@
+.textH1Categorie {
+    font-size: 25px;
+    color: white;    
+    justify-content: center;
+    display: flex;
+}
+.textCategorie {
+    font-size: 15px;
+    color: white;    
+   
+}
+.colCategorie {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: 10px;
+}
+.textTitre {
+    color:white;
+    justify-content: center;
+    display: flex;
+    background: linear-gradient(0deg, rgba(77,213,199,1) 10%, rgba(111,235,166,1) 100%);
+    align-items: center;     
+    height: 50px;
+    border-radius: 0px 0 30px 30px;
+}
+.cardCategorie {
+    height: 115px;
+    border-radius: 100px;
+}
+
+.containerButtonCategorie {
+    box-shadow: 0px 8px 7px 0px #DCDCDC;
+    display: flex;
+    justify-content: space-around;
+}
+.biéreButtonCategorie {
+    color:gray;
+    background-color: white;
+    border-radius: 20px;
+    border-color: white;
+}
+.biéreButtonCategorie1 {
+    background: linear-gradient(0deg, rgba(77,213,199,1) 10%, rgba(111,235,166,1) 100%);
+    border-radius: 20px;
+    border-color: white;
+}
+
+.cardBodyCategorieDeProduits{
+    padding-bottom: 10px;
+    border: solid 1px;
+    border-top-color: gray;
+    border-bottom-color: gray;
+    border-left-color: transparent;
+    border-right-color: transparent;
+} 
+.cardTitleCategorieDeProduits {
+    font-weight: bold;
+    color: black;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.textH1CategorieDeProduitstext{
+    width: 38vh;
+    font-size: 15px;
+    color:black;
+    justify-content: space-between;
+    display: flex;
+    font-weight: bold;
+ 
+}
+.textH1CategorieDeProduits{
+    width: 30vh;
+    font-size: 15px;
+    color:black;
+    justify-content: space-between;
+    display: flex;
+    font-weight: bold;
+ 
+}
+
+.textCategorieDeProduits{
+    height: 5px;
+    font-size: 12px;
+    color: gray;
+    text-align: start; 
+}
+.colCardCategorieDeProduits {
+    padding-left: 0;
+    padding-right: 0;
+}

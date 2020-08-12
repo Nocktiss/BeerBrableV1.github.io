@@ -127,7 +127,7 @@ class OrderSummary extends Component {
             <ModalBody className="paddingModalBodyLeft">
               <div className="">
                 <div className="linkRegisterPageScreen">
-                  <Link to="/Nocktiss">
+                  <Link to="/webapp">
                     <button className="buttonCreeCompteModal">
                       Quitter cette page
                     </button>

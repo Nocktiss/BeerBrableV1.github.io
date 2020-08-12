@@ -28,7 +28,7 @@ class App extends Component {
         <Switch>
           <Route
             exact
-            path="/Nocktiss"
+            path="/webapp"
             onClick={refreshPage}
             component={PageDAccueil}
           />

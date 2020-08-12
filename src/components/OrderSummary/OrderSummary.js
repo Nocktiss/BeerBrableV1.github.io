@@ -83,7 +83,7 @@ class OrderSummary extends Component {
             Ta commande a été prise en compte avec grand succés
           </CardText>
           <CardText className="textOderSummaryCommande"> Commande :</CardText>
-          <CardText className="textOderSummaryNumeroCommande"> BA01 </CardText>
+          <CardText className="textOderSummaryNumeroCommande"> BA02 </CardText>
           <CardText className="textOderSummaryStripe">
             {" "}
             Payé avec Stripe

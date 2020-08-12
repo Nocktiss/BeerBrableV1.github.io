@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Nocktiss/precache-manifest.649a67b38153e404edb6b3a4ed69f4b9.js"
+  "/Nocktiss/precache-manifest.e3170c427c8a024a64a1c2f2deee03b3.js"
 );
 
 self.addEventListener('message', (event) => {

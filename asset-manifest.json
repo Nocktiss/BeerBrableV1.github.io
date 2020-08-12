@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Nocktiss/static/css/main.edd33452.chunk.css",
-    "main.js": "/Nocktiss/static/js/main.bf85e47a.chunk.js",
-    "main.js.map": "/Nocktiss/static/js/main.bf85e47a.chunk.js.map",
+    "main.js": "/Nocktiss/static/js/main.a06692ce.chunk.js",
+    "main.js.map": "/Nocktiss/static/js/main.a06692ce.chunk.js.map",
     "runtime-main.js": "/Nocktiss/static/js/runtime-main.a9981ca4.js",
     "runtime-main.js.map": "/Nocktiss/static/js/runtime-main.a9981ca4.js.map",
     "static/css/2.49217409.chunk.css": "/Nocktiss/static/css/2.49217409.chunk.css",
     "static/js/2.396b0200.chunk.js": "/Nocktiss/static/js/2.396b0200.chunk.js",
     "static/js/2.396b0200.chunk.js.map": "/Nocktiss/static/js/2.396b0200.chunk.js.map",
     "index.html": "/Nocktiss/index.html",
-    "precache-manifest.e3170c427c8a024a64a1c2f2deee03b3.js": "/Nocktiss/precache-manifest.e3170c427c8a024a64a1c2f2deee03b3.js",
+    "precache-manifest.eb51d76d1a8c6f42d6401677cecc1671.js": "/Nocktiss/precache-manifest.eb51d76d1a8c6f42d6401677cecc1671.js",
     "service-worker.js": "/Nocktiss/service-worker.js",
     "static/css/2.49217409.chunk.css.map": "/Nocktiss/static/css/2.49217409.chunk.css.map",
     "static/css/main.edd33452.chunk.css.map": "/Nocktiss/static/css/main.edd33452.chunk.css.map",
@@ -45,6 +45,6 @@
     "static/css/2.49217409.chunk.css",
     "static/js/2.396b0200.chunk.js",
     "static/css/main.edd33452.chunk.css",
-    "static/js/main.bf85e47a.chunk.js"
+    "static/js/main.a06692ce.chunk.js"
   ]
 }

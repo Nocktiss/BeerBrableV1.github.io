@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "104e39c8b7ee2dbdab8a572e20afb62d",
+    "revision": "0e66e78a46874a9c99760ba768b1d42e",
     "url": "/Nocktiss/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Nocktiss/static/css/2.49217409.chunk.css"
   },
   {
-    "revision": "4146664ecd4103cf694e",
+    "revision": "0d88fd5da2e3bbb18733",
     "url": "/Nocktiss/static/css/main.edd33452.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Nocktiss/static/js/2.396b0200.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4146664ecd4103cf694e",
-    "url": "/Nocktiss/static/js/main.bf85e47a.chunk.js"
+    "revision": "0d88fd5da2e3bbb18733",
+    "url": "/Nocktiss/static/js/main.a06692ce.chunk.js"
   },
   {
     "revision": "b517f5265e86fdf748fd",

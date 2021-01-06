@@ -7,7 +7,7 @@
   "stripePublicKey": "pk_test_8Uu74Vj98LE8Cry87uBBv7y700M3v9J9ni",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.5.2",
     "classnames": "^2.2.6",
     "ejs": "^2.7.4",

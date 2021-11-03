@@ -34,7 +34,7 @@
     "redux-thunk": "^2.3.0",
     "spected": "^0.7.1",
     "stripe": "^5.4.0",
-    "validator": "^11.1.0",
+    "validator": "^13.7.0",
     "yup": "^0.27.0"
   },
   "scripts": {
